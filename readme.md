@@ -55,6 +55,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 ## Tools
 
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
+- [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
 
 
 ## Extensions
