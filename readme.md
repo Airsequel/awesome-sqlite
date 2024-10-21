@@ -4,6 +4,7 @@
 
 - [Features](#features)
 - [Apps and Communities buidling on SQLite](#apps-and-communities-buidling-on-sqlite)
+- [Tools](#tools)
 - [Extensions](#extensions)
 - [Websites](#websites)
 - [Scalable SQLite](#scalable-sqlite)
@@ -49,6 +50,11 @@
 - [sqlite-fs](https://github.com/narumatt/sqlitefs) - Mount a SQLite database as a normal filesystem on Linux and macOS.
 
 Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more comprehensive list.
+
+
+## Tools
+
+- [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 
 
 ## Extensions
