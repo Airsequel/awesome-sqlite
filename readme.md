@@ -114,6 +114,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2022-06-10 - [SQLite: Past, Present, and Future](https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future)
 - 2022-02-20 - [Data diffs - Algorithms for explaining what changed in a dataset](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 - 2018-07-30 - [One process programming notes (with Go and SQLite)](https://crawshaw.io/blog/one-process-programming-notes)
+- 2017-12-06 - [SQLite DB Migrations with `PRAGMA user_version`](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)
 - 2015-12-07 - [SeSQLite](https://seclab.unibg.it/projects/sesqlite/) - Security Enhanced SQLite: Mandatory Access Control for Android databases
 
 
