@@ -105,6 +105,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2024-05-08 - [Modern SQLite - Generated columns](https://antonz.org/sqlite-generated-columns/)
 - 2024-05-04 - [Modern SQLite - STRICT tables](https://antonz.org/sqlite-strict-tables/)
 - 2024-04-30 - [Backup strategies for SQLite in production](https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/)
+- 2024-04-15 - [SQLite on Rails: The How and Why of Optimal Performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 - 2024-02-15 - [Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers)
 - 2023-02-09 - [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
 - 2022-09-22 - [Storing SQLite databases under git as plain text files](https://trenta3.gitlab.io/note:storing-sqlite-databases-under-git/)
