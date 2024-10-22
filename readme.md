@@ -133,6 +133,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 ## Videos
 
 - [SQLite: How it works, by Richard Hipp](https://www.youtube.com/watch?v=ZSKLA81tBis)
+- [SQLite is enough](https://www.youtube.com/watch?v=qo_VXNVOtWI)
 
 
 ## Discussions
