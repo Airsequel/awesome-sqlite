@@ -111,6 +111,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2022-09-22 - [Storing SQLite databases under git as plain text files](https://trenta3.gitlab.io/note:storing-sqlite-databases-under-git/)
 - 2022-08-24 - [How SQLite Scales Read Concurrency](https://fly.io/blog/sqlite-internals-wal/)
 - 2022-08-21 - [SQLite has pretty limited builtin functions](https://datastation.multiprocess.io/blog/2022-08-21-sqlite-limited-builtin-functions.html)
+- 2022-07-31 - [SQLite Performance Tuning](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
 - 2022-06-23 - [Building a remote SQLite explorer](https://ricardoanderegg.com/posts/sqlite-remote-explorer-gui/)
 - 2022-06-10 - [SQLite: Past, Present, and Future](https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future)
 - 2022-02-20 - [Data diffs - Algorithms for explaining what changed in a dataset](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
