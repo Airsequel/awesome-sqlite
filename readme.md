@@ -96,6 +96,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2024-10-17 - [Sensible SQLite defaults](https://briandouglas.ie/sqlite-defaults/)
 - 2024-10-13 - [Optimizing a large SQLite database for reading](https://jacobfilipp.com/sqliteoptimize/)
 - 2024-10-05 - [Tracking SQLite Changes](https://playtechnique.io/projects/grafanasink/tracking-sqlite-changes.html)
+- 2024-09-25 - [Reading SQLite Schema Tables the Hard Way](https://www.philosophicalhacker.com/post/reading-sqlite-schema-tables-the-hard-way/)
 - 2024-08-16 - [Auditing and Versioning Data in SQLite](https://www.bytefish.de/blog/sqlite_logging_changes.html)
 - 2024-07-17 - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
 - 2024-07-01 - [Comparison of managed SQLite services](https://newbeelearn.com/blog/comparison-of-hosted-sqlite-service/)
