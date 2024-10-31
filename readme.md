@@ -56,6 +56,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 - [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
+- [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
 
 
 ## Extensions
@@ -84,7 +85,6 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 - [Online playground](https://sqlite.org/fiddle/)
 - [sqltab.com](https://www.sqltab.com) - Online webapp for editing SQLite databases
-- [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
 
 
 ## Scalable SQLite
