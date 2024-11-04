@@ -85,6 +85,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 - [Online playground](https://sqlite.org/fiddle/)
 - [sqltab.com](https://www.sqltab.com) - Online webapp for editing SQLite databases
+- [CSV SQL Tool](https://csvsqltool.com) - Run SQL queries on CSV files in your browser.
 
 
 ## Scalable SQLite
