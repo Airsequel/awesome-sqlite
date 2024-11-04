@@ -57,6 +57,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 - [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
 - [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
+- [sqlite-wasm-webrtc](https://github.com/adhamsalama/sqlite-wasm-webrtc) - Peer-to-peer collaborative database editing & sharing in the browser.
 
 
 ## Extensions
