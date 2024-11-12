@@ -96,6 +96,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2024-11-09 - [SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 - 2024-10-17 - [Sensible SQLite defaults](https://briandouglas.ie/sqlite-defaults/)
 - 2024-10-13 - [Optimizing a large SQLite database for reading](https://jacobfilipp.com/sqliteoptimize/)
 - 2024-10-05 - [Tracking SQLite Changes](https://playtechnique.io/projects/grafanasink/tracking-sqlite-changes.html)
