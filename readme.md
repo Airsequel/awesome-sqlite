@@ -97,6 +97,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2024-11-14 - [SQLite Index Visualization: Structure](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 - 2024-11-09 - [SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 - 2024-11-02 - [How the new `sqlite3_rsync` utility works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
 - 2024-10-25 - [Using SQLite as Storage for Web Server Static Content](https://clace.io/blog/sqlite/)
