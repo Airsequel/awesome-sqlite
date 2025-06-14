@@ -9,13 +9,13 @@
 - [Websites](#websites)
 - [Scalable SQLite](#scalable-sqlite)
 - [Articles](#articles)
+- [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Discussions](#discussions)
-- [Tutorials](#tutorials)
 - [Testimonials](#testimonials)
-- [Companies Using SQLite](#companies-using-sqlite)
+- [Usage Scenarios](#usage-scenarios)
   - [In Production](#in-production)
-  - [As Default Database](#as-default-database)
+  - [As Main Database](#as-main-database)
 - [Misc](#misc)
 - [Alternatives](#alternatives)
 - [Libraries](#libraries)
@@ -27,7 +27,7 @@
 
 - [Many Small Queries Are Efficient In SQLite](https://www.sqlite.org/np1queryprob.html)
 - [Long term support until 2050](https://www.sqlite.org/lts.html)
-    - SQLite is a Recommended Storage Format for datasets according to the US Library of Congress ([https://www.sqlite.org/locrsf.html](https://www.sqlite.org/locrsf.html))
+    - SQLite is a Recommended Storage Format for datasets according to the US Library of Congress ([https://www.sqlite.org/locrsf.html](https://www.sqlite.org/locrsf.html))
 - Energy savings due to no running database server
 
 
@@ -76,7 +76,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [github.com/abiliojr/sqlite-lua](https://github.com/abiliojr/sqlite-lua) - Create new SQL functions written in Lua.****
 - [github.com/x2bool/sqliteclip](https://github.com/x2bool/sqliteclip) - Work with operating system's clipboard.
 - [github.com/hoelzro/sqlite-lua-extension](https://github.com/hoelzro/sqlite-lua-extension) - Embed a Lua interpreter into SQLite
-- [github.com/Florents-Tselai/liteJQ](https://github.com/Florents-Tselai/liteJQ) - liteJQ is an SQLite extension, written in C, that brings `jq` support to SQLite using vanilla `jqlib`.
+- [github.com/Florents-Tselai/liteJQ](https://github.com/Florents-Tselai/liteJQ) - liteJQ is an SQLite extension, written in C, that brings `jq` support to SQLite using vanilla `jqlib`.
 - [github.com/JarkkoPar/sqlite-ndvss](https://github.com/JarkkoPar/sqlite-ndvss) - No-Dependency Vector Similarity Search for SQLite.
 - [SQLSync](https://github.com/orbitinghail/sqlsync) - Collaborative offline-first wrapper around SQLite.
 - [Vectorlite](https://github.com/1yefuwang1/vectorlite) - Fast and tunable vector search extension for SQLite.
@@ -92,7 +92,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Scalable SQLite
 
-- [LiteCluster - Replicated, leaderless, ACID compliant & high availability SQLite](https://oldmoe.blog/2024/07/22/litecluster-replicated-leaderless-acid-compliant-high-availability-sqlite/)
+- [LiteCluster - Replicated, leaderless, ACID compliant & high availability SQLite](https://oldmoe.blog/2024/07/22/litecluster-replicated-leaderless-acid-compliant-high-availability-sqlite/)
 
 
 ## Articles
@@ -103,7 +103,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2024-10-25 - [Using SQLite as Storage for Web Server Static Content](https://clace.io/blog/sqlite/)
 - 2024-10-17 - [Sensible SQLite defaults](https://briandouglas.ie/sqlite-defaults/)
 - 2024-10-13 - [Optimizing a large SQLite database for reading](https://jacobfilipp.com/sqliteoptimize/)
-- 2024-10-05 - [Tracking SQLite Changes](https://playtechnique.io/projects/grafanasink/tracking-sqlite-changes.html)
+- 2024-10-05 - [Tracking SQLite Changes](https://web.archive.org/web/20241021145140/https://playtechnique.io/projects/grafanasink/tracking-sqlite-changes.html)
 - 2024-09-25 - [Reading SQLite Schema Tables the Hard Way](https://www.philosophicalhacker.com/post/reading-sqlite-schema-tables-the-hard-way/)
 - 2024-08-16 - [Auditing and Versioning Data in SQLite](https://www.bytefish.de/blog/sqlite_logging_changes.html)
 - 2024-07-17 - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
@@ -132,8 +132,8 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 ## Tutorials
 
 - [The simplest SQLite common table expression tutorial](https://use.expensify.com/blog/the-simplest-sqlite-common-table-expression-tutorial)
-- [exercism.org/tracks/sqlite/](https://exercism.org/tracks/sqlite/) - SQLite track with many exercises and automatic code analysis.
-- [SQLite for Beginners](https://www.youtube.com/watch?v=Wd5WWVx3aRE&list=PLWENznQwkAoxww-cDEfIJ-uuPDfFwbeiJ) - YouTube tutorials by [Mycelial](https://www.mycelial.com/)
+- [exercism.org/tracks/sqlite/](https://exercism.org/tracks/sqlite/) - SQLite track with many exercises and automatic code analysis.
+- [SQLite for Beginners](https://www.youtube.com/watch?v=Wd5WWVx3aRE&list=PLWENznQwkAoxww-cDEfIJ-uuPDfFwbeiJ) - YouTube tutorials by [Mycelial](https://github.com/mycelial)
 - [5 ways to implement case-insensitive search in SQLite with full Unicode support][case-insensitive-search]
 - 2024-07-22 - [Build your own SQLite](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 
@@ -163,7 +163,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 ### In Production
 
 - Pieter Levels’ startups ([https://news.ycombinator.com/item?id=31152778](https://news.ycombinator.com/item?id=31152778))
-    - [nomads.com](https://nomads.com/faq)
+    - [nomads.com](https://nomads.com/)
     - [Remote OK](https://remoteok.com/)
     - …
 - [https://www.wikdict.com](https://www.wikdict.com/)
@@ -172,7 +172,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ### As Main Database
 
-- [RedwoodJS](https://redwoodjs.com)
+- [Airsequel](https://www.airsequel.com/)
 - [Ruby on Rails](https://fly.io/ruby-dispatch/sqlite-and-rails-in-production/)
 
 More examples:
@@ -217,10 +217,10 @@ More examples:
     - [codapi](https://codapi.org/)
     - [SQL Window Functions Book](https://antonz.org/sql-window-functions-book/)
 - [Alex Garcia](https://alexgarcia.xyz/)
-    - [`sqlite-loadable-rs`](https://github.com/asg017/sqlite-loadable-rs) - A Rust framework for safe and performant SQLite extensions
-    - [`sqlite-vss`](https://github.com/asg017/sqlite-vss) - Efficient vector search, based on Faiss
-    - [`sqlite-xsv`](https://github.com/asg017/sqlite-xsv) - Quickly reading CSV files and blobs
-    - [`sqlite-regex`](https://github.com/asg017/sqlite-regex) - `REGEXP`support and other regular expression functions
-    - [`sqlite-http`](https://github.com/asg017/sqlite-http) - Making HTTP requests and querying responses
-    - [`sqlite-html`](https://github.com/asg017/sqlite-html) - Querying and generating HTML elements
-- [Rody Davis](https://rodydavis.com/sqlite)
+    - [`sqlite-loadable-rs`](https://github.com/asg017/sqlite-loadable-rs) - A Rust framework for safe and performant SQLite extensions
+    - [`sqlite-vss`](https://github.com/asg017/sqlite-vss) - Efficient vector search, based on Faiss
+    - [`sqlite-xsv`](https://github.com/asg017/sqlite-xsv) - Quickly reading CSV files and blobs
+    - [`sqlite-regex`](https://github.com/asg017/sqlite-regex) - `REGEXP`support and other regular expression functions
+    - [`sqlite-http`](https://github.com/asg017/sqlite-http) - Making HTTP requests and querying responses
+    - [`sqlite-html`](https://github.com/asg017/sqlite-html) - Querying and generating HTML elements
+- [Rody Davis](https://rodydavis.com/tags/u8p42jft47l4256)

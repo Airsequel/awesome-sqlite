@@ -11,4 +11,6 @@ test:
 	lychee \
 		--max-redirects 0 \
 		--require-https \
+		--exclude kerkour.com/sqlite-for-servers \
+		--exclude gramps-project.org \
 		readme.md
