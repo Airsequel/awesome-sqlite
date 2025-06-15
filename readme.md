@@ -55,10 +55,14 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 ## Tools
 
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
+- [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Sync your Gmail messages into a local SQLite database for analysis.
 - [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
+- [sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - GUI that lets you inspect a database page-by-page as SQLite stores and reads it.
 - [pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed SQLite databases in your PostgreSQL table.
+- [RecordLite](https://github.com/fsaintjacques/recordlite) - Declarative tool/library that manages SQLite tables and views for semi-structured (JSON / Protobuf) records.
 - [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
 - [sqlite-wasm-webrtc](https://github.com/adhamsalama/sqlite-wasm-webrtc) - Peer-to-peer collaborative database editing & sharing in the browser.
+- [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - Experimental HTTP VFS driver that lets SQLite WASM access databases over HTTP.
 
 
 ## Extensions
@@ -97,6 +101,11 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2025-02-16 - [SQLite-on-the-Server Is Misunderstood: Better At Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
+- 2025-02-16 - [searchcode.com’s SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
+- 2025-02-14 - [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
+- 2025-02-14 - [Retrieval Augmented Generation in SQLite](https://losangelesaiapps.com/retrieval-augmented-generation-in-sqlite/)
+- 2025-02-01 - [SQLite concurrent writes and "database is locked" errors](https://tenthousandmeters.com/blog/sqlite-concurrent-writes-and-database-is-locked-errors/)
 - 2024-11-14 - [SQLite Index Visualization: Structure](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 - 2024-11-09 - [SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 - 2024-11-02 - [How the new `sqlite3_rsync` utility works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
@@ -174,6 +183,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 - [Airsequel](https://www.airsequel.com/)
 - [Ruby on Rails](https://fly.io/ruby-dispatch/sqlite-and-rails-in-production/)
+- [TrailBase](https://trailbase.io/) – Open, single-binary Firebase alternative built on Rust, SQLite & V8.
 
 More examples:
 
