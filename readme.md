@@ -63,6 +63,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
 - [sqlite-wasm-webrtc](https://github.com/adhamsalama/sqlite-wasm-webrtc) - Peer-to-peer collaborative database editing & sharing in the browser.
 - [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - Experimental HTTP VFS driver that lets SQLite WASM access databases over HTTP.
+- [JDbrowser](https://github.com/Jkeyuk/JDbrowser) - Terminal TUI SQLite database browser written in Rust.
 
 
 ## Extensions
@@ -101,6 +102,8 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2025-02-24 - [Why We Moved from SQLite to DuckDB: 5x Faster Queries, ~80% Less Storage](https://trytrace.app/blog/migrating-from-sqlite-to-duckdb/)
+- 2025-02-18 - [SQLite is learnable](https://hiandrewquinn.github.io/til-site/posts/the-learnability-of-sqlite/)
 - 2025-02-16 - [SQLite-on-the-Server Is Misunderstood: Better At Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
 - 2025-02-16 - [searchcode.com’s SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
 - 2025-02-14 - [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
@@ -133,6 +136,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2022-06-23 - [Building a remote SQLite explorer](https://ricardoanderegg.com/posts/sqlite-remote-explorer-gui/)
 - 2022-06-10 - [SQLite: Past, Present, and Future](https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future)
 - 2022-02-20 - [Data diffs - Algorithms for explaining what changed in a dataset](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
+- 2021-12-30 - [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 - 2018-07-30 - [One process programming notes (with Go and SQLite)](https://crawshaw.io/blog/one-process-programming-notes)
 - 2017-12-06 - [SQLite DB Migrations with `PRAGMA user_version`](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)
 - 2015-12-07 - [SeSQLite](https://seclab.unibg.it/projects/sesqlite/) - Security Enhanced SQLite: Mandatory Access Control for Android databases
@@ -140,11 +144,12 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Tutorials
 
+- 2025-02-19 - [Virtual Tables in SQLite with Go](https://misfra.me/2025/virtual-tables-in-sqlite-with-go/)
 - [The simplest SQLite common table expression tutorial](https://use.expensify.com/blog/the-simplest-sqlite-common-table-expression-tutorial)
 - [exercism.org/tracks/sqlite/](https://exercism.org/tracks/sqlite/) - SQLite track with many exercises and automatic code analysis.
 - [SQLite for Beginners](https://www.youtube.com/watch?v=Wd5WWVx3aRE&list=PLWENznQwkAoxww-cDEfIJ-uuPDfFwbeiJ) - YouTube tutorials by [Mycelial](https://github.com/mycelial)
 - [5 ways to implement case-insensitive search in SQLite with full Unicode support][case-insensitive-search]
-- 2024-07-22 - [Build your own SQLite](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
+- 2024-07-22 - [Build your own SQLite](https://blog.sylver.dev/series/build-your-sqlite)
 
 [case-insensitive-search]:
     https://shallowdepth.online/posts/2022/01/5-ways-to-implement-case-insensitive-search-in-sqlite-with-full-unicode-support/
