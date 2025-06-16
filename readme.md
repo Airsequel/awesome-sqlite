@@ -43,6 +43,7 @@
 - Audacity - aup3 format is based on SQLite
     ([Audacity using SQLite now](https://sqlite.org/forum/info/496b68a88a88e5c0))
 - [Timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [Minimalytics](https://github.com/nafey/minimalytics) - Stand-alone, minimalist analytics CLI/Web UI that stores and aggregates billions of events per month using a single SQLite database.
 - [The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata](https://twitter.com/captbaritone/status/1535471373191028737)
 - [Contextualise](https://contextualise.dev/) - Structured Knowledge
 - [gramps-project.org](https://gramps-project.org/) - Genealogy app using SQLite for storing family trees.
@@ -55,15 +56,18 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 ## Tools
 
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
+- [git-sqlite](https://github.com/cannadayr/git-sqlite) - Custom diff & merge driver that lets you version SQLite databases with Git.
 - [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Sync your Gmail messages into a local SQLite database for analysis.
 - [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
 - [sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - GUI that lets you inspect a database page-by-page as SQLite stores and reads it.
+- [omni_sqlite](https://docs.omnigres.org/omni_sqlite/sqlite/) - Omnigres extension that embeds full SQLite databases as a first-class data type inside PostgreSQL.
 - [pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed SQLite databases in your PostgreSQL table.
 - [RecordLite](https://github.com/fsaintjacques/recordlite) - Declarative tool/library that manages SQLite tables and views for semi-structured (JSON / Protobuf) records.
 - [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
 - [sqlite-wasm-webrtc](https://github.com/adhamsalama/sqlite-wasm-webrtc) - Peer-to-peer collaborative database editing & sharing in the browser.
 - [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - Experimental HTTP VFS driver that lets SQLite WASM access databases over HTTP.
 - [JDbrowser](https://github.com/Jkeyuk/JDbrowser) - Terminal TUI SQLite database browser written in Rust.
+- [GizmoSQL](https://github.com/gizmodata/gizmosql) - Arrow Flight SQL server with TLS/auth that can run on top of SQLite (or DuckDB), exposing JDBC/ADBC access via Docker or binary.
 
 
 ## Extensions
@@ -85,23 +89,29 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [github.com/JarkkoPar/sqlite-ndvss](https://github.com/JarkkoPar/sqlite-ndvss) - No-Dependency Vector Similarity Search for SQLite.
 - [SQLSync](https://github.com/orbitinghail/sqlsync) - Collaborative offline-first wrapper around SQLite.
 - [Vectorlite](https://github.com/1yefuwang1/vectorlite) - Fast and tunable vector search extension for SQLite.
-- [SQLite Jiff](https://github.com/asg017/sqlite-jiff) -  Date-time extension that supports timezones, complex durations, and daylight savings calculations.
+- [SQLite Jiff](https://github.com/asg017/sqlite-jiff) - Date-time extension that supports timezones, complex durations, and daylight savings calculations.
 
 
 ## Websites
 
 - [Online playground](https://sqlite.org/fiddle/)
 - [sqltab.com](https://www.sqltab.com) - Online webapp for editing SQLite databases
+- [SQLite Viewer](https://tablesviewer.com/sqlite-viewer/) - Client-side viewer that lets you open SQLite files, browse tables, run SQL, and export results—all entirely in your browser without uploading data.
 - [CSV SQL Tool](https://csvsqltool.com) - Run SQL queries on CSV files in your browser.
 
 
 ## Scalable SQLite
 
-- [LiteCluster - Replicated, leaderless, ACID compliant & high availability SQLite](https://oldmoe.blog/2024/07/22/litecluster-replicated-leaderless-acid-compliant-high-availability-sqlite/)
+- [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki) - Store SQLite databases in cloud blob storage and access them without downloading the entire file.
+- [LiteCluster](https://oldmoe.blog/2024/07/22/litecluster-replicated-leaderless-acid-compliant-high-availability-sqlite/) - Replicated, leaderless, ACID compliant & high availability SQLite.
 
 
 ## Articles
 
+- 2025-04-29 - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
+- 2025-04-29 - [Database Partitioning for Large SQLite Databases](https://www.sqliteforum.com/p/database-partitioning-for-large-sqlite)
+- 2025-04-17 - [SQLite Transactions and Virtual Tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
+- 2025-03-04 - [Abusing SQLite to Handle Concurrency](https://blog.skypilot.co/abusing-sqlite-to-handle-concurrency/)
 - 2025-02-24 - [Why We Moved from SQLite to DuckDB: 5x Faster Queries, ~80% Less Storage](https://trytrace.app/blog/migrating-from-sqlite-to-duckdb/)
 - 2025-02-18 - [SQLite is learnable](https://hiandrewquinn.github.io/til-site/posts/the-learnability-of-sqlite/)
 - 2025-02-16 - [SQLite-on-the-Server Is Misunderstood: Better At Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
@@ -135,6 +145,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2022-07-31 - [SQLite Performance Tuning](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
 - 2022-06-23 - [Building a remote SQLite explorer](https://ricardoanderegg.com/posts/sqlite-remote-explorer-gui/)
 - 2022-06-10 - [SQLite: Past, Present, and Future](https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future)
+- 2022-05-09 - [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 - 2022-02-20 - [Data diffs - Algorithms for explaining what changed in a dataset](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 - 2021-12-30 - [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 - 2018-07-30 - [One process programming notes (with Go and SQLite)](https://crawshaw.io/blog/one-process-programming-notes)
@@ -213,6 +224,7 @@ More examples:
 - [DuckDB](https://duckdb.org) - Embeddable SQL database for analytical queries.
 - [TogetherDB](https://togetherdb.com) - Online database for developers.
 - [Hydra](https://www.hydra.so/) - The data warehouse for devs powered by Postgres.
+- [GoatDB](https://goatdb.dev/) - Embedded, distributed document database focused on real-time collaboration and caching.
 
 
 ## Libraries
