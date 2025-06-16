@@ -108,6 +108,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki) - Store SQLite databases in cloud blob storage and access them without downloading the entire file.
 - [LiteCluster](https://oldmoe.blog/2024/07/22/litecluster-replicated-leaderless-acid-compliant-high-availability-sqlite/) - Replicated, leaderless, ACID compliant & high availability SQLite.
 - [gRPSQLite](https://github.com/danthegoodman1/gRPSQLite) - SQLite VFS that turns any gRPC-accessible storage into a remote, multi-tenant, distributed SQLite backend.
+- [Hiqlite](https://github.com/sebadob/hiqlite) - Highly-available, embeddable, Raft-based SQLite with integrated cache and automatic fail-over.
 
 
 ## Articles
