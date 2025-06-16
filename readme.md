@@ -43,6 +43,7 @@
 - Audacity - aup3 format is based on SQLite
     ([Audacity using SQLite now](https://sqlite.org/forum/info/496b68a88a88e5c0))
 - [Timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [Compute Lite](https://www.computelite.com/) – Server-less, in-browser computing environment (Pyodide, WebR, JavaScript) that stores all data locally using SQLite OPFS.
 - [Minimalytics](https://github.com/nafey/minimalytics) - Stand-alone, minimalist analytics CLI/Web UI that stores and aggregates billions of events per month using a single SQLite database.
 - [The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata](https://twitter.com/captbaritone/status/1535471373191028737)
 - [Contextualise](https://contextualise.dev/) - Structured Knowledge
@@ -62,12 +63,14 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - GUI that lets you inspect a database page-by-page as SQLite stores and reads it.
 - [omni_sqlite](https://docs.omnigres.org/omni_sqlite/sqlite/) - Omnigres extension that embeds full SQLite databases as a first-class data type inside PostgreSQL.
 - [pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed SQLite databases in your PostgreSQL table.
+- [PgFreshCache](https://github.com/PgOutput2Json/PgFreshCache) - Read-only caching layer that mirrors selected PostgreSQL tables into a local SQLite database via logical replication.
 - [RecordLite](https://github.com/fsaintjacques/recordlite) - Declarative tool/library that manages SQLite tables and views for semi-structured (JSON / Protobuf) records.
 - [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
 - [sqlite-wasm-webrtc](https://github.com/adhamsalama/sqlite-wasm-webrtc) - Peer-to-peer collaborative database editing & sharing in the browser.
 - [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - Experimental HTTP VFS driver that lets SQLite WASM access databases over HTTP.
 - [JDbrowser](https://github.com/Jkeyuk/JDbrowser) - Terminal TUI SQLite database browser written in Rust.
 - [GizmoSQL](https://github.com/gizmodata/gizmosql) - Arrow Flight SQL server with TLS/auth that can run on top of SQLite (or DuckDB), exposing JDBC/ADBC access via Docker or binary.
+- [LiveStore](https://livestore.dev/) - Local-first state-management framework with a reactive embedded SQLite database and Git-style real-time syncing.
 
 
 ## Extensions
@@ -104,10 +107,12 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki) - Store SQLite databases in cloud blob storage and access them without downloading the entire file.
 - [LiteCluster](https://oldmoe.blog/2024/07/22/litecluster-replicated-leaderless-acid-compliant-high-availability-sqlite/) - Replicated, leaderless, ACID compliant & high availability SQLite.
+- [gRPSQLite](https://github.com/danthegoodman1/gRPSQLite) - SQLite VFS that turns any gRPC-accessible storage into a remote, multi-tenant, distributed SQLite backend.
 
 
 ## Articles
 
+- 2025-06-14 - [SQLite's Architectural Evolution and Performance Optimisation](https://lord.technology/2025/06/14/sqlites-architectural-evolution-and-performance-optimisation.html)
 - 2025-04-29 - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 - 2025-04-29 - [Database Partitioning for Large SQLite Databases](https://www.sqliteforum.com/p/database-partitioning-for-large-sqlite)
 - 2025-04-17 - [SQLite Transactions and Virtual Tables](https://misfra.me/2025/sqlite-transactions-and-virtual-tables/)
@@ -147,6 +152,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2022-06-10 - [SQLite: Past, Present, and Future](https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future)
 - 2022-05-09 - [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 - 2022-02-20 - [Data diffs - Algorithms for explaining what changed in a dataset](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
+- 2021-04-17 - [Hosting SQLite databases on GitHub Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - 2021-12-30 - [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 - 2018-07-30 - [One process programming notes (with Go and SQLite)](https://crawshaw.io/blog/one-process-programming-notes)
 - 2017-12-06 - [SQLite DB Migrations with `PRAGMA user_version`](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)
@@ -156,6 +162,8 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 ## Tutorials
 
 - 2025-02-19 - [Virtual Tables in SQLite with Go](https://misfra.me/2025/virtual-tables-in-sqlite-with-go/)
+- 2024-10-13 - [Optimizing a large SQLite database for reading](https://jacobfilipp.com/sqliteoptimize/)
+- [Sling Academy SQLite tutorials](https://www.slingacademy.com/cat/sqlite/) - Continuously-updated collection of articles, error explanations, and hands-on guides for working with SQLite.
 - [The simplest SQLite common table expression tutorial](https://use.expensify.com/blog/the-simplest-sqlite-common-table-expression-tutorial)
 - [exercism.org/tracks/sqlite/](https://exercism.org/tracks/sqlite/) - SQLite track with many exercises and automatic code analysis.
 - [SQLite for Beginners](https://www.youtube.com/watch?v=Wd5WWVx3aRE&list=PLWENznQwkAoxww-cDEfIJ-uuPDfFwbeiJ) - YouTube tutorials by [Mycelial](https://github.com/mycelial)
@@ -225,11 +233,13 @@ More examples:
 - [TogetherDB](https://togetherdb.com) - Online database for developers.
 - [Hydra](https://www.hydra.so/) - The data warehouse for devs powered by Postgres.
 - [GoatDB](https://goatdb.dev/) - Embedded, distributed document database focused on real-time collaboration and caching.
+- [LumoSQL](https://lumosql.org/) - Privacy-, security- and performance-focused variant of SQLite featuring pluggable key-value stores, page-level encryption, row-level checksums, and other enhancements while remaining compatible with standard SQLite.
 
 
 ## Libraries
 
-- [Substrait](https://github.com/substrait-io/substrait) - Cross platform way to express data transformation, relational algebra, standardized record expression and plans.
+- [SoloDB](https://github.com/Unconcurrent/SoloDB) - Lightweight, fast .NET embedded document database (NoSQL + SQL) built on SQLite’s JSONB data type.
+- [Substrait](https://github.com/substrait-io/substrait) - Cross-platform way to express data transformation, relational algebra, standardized record expression and plans.
 
 
 ## People
