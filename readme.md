@@ -124,7 +124,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2025-02-24 - [Why We Moved from SQLite to DuckDB: 5x Faster Queries, ~80% Less Storage](https://trytrace.app/blog/migrating-from-sqlite-to-duckdb/)
 - 2025-02-18 - [SQLite is learnable](https://hiandrewquinn.github.io/til-site/posts/the-learnability-of-sqlite/)
 - 2025-02-16 - [SQLite-on-the-Server Is Misunderstood: Better At Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
-- 2025-02-16 - [searchcode.com’s SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
+- 2025-02-16 - [searchcode.com's SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
 - 2025-02-14 - [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
 - 2025-02-14 - [Retrieval Augmented Generation in SQLite](https://losangelesaiapps.com/retrieval-augmented-generation-in-sqlite/)
 - 2025-02-01 - [SQLite concurrent writes and "database is locked" errors](https://tenthousandmeters.com/blog/sqlite-concurrent-writes-and-database-is-locked-errors/)
