@@ -59,6 +59,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 - [git-sqlite](https://github.com/cannadayr/git-sqlite) - Custom diff & merge driver that lets you version SQLite databases with Git.
 - [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Sync your Gmail messages into a local SQLite database for analysis.
+- [haiku.rag](https://github.com/ggozad/haiku.rag) - Retrieval-Augmented Generation library/CLI & server built on SQLite with hybrid vector+FTS search, file-system monitoring and Python client.
 - [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
 - [sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - GUI that lets you inspect a database page-by-page as SQLite stores and reads it.
 - [omni_sqlite](https://docs.omnigres.org/omni_sqlite/sqlite/) - Omnigres extension that embeds full SQLite databases as a first-class data type inside PostgreSQL.
