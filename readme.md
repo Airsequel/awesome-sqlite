@@ -115,6 +115,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2025-10-28 - [Using SQLite's immutable and mode flags to get around 'database is locked' error](https://hoelz.ro/blog/using-sqlites-immutable-and-mode-flags-to-get-around-database-is-locked-error)
 - 2025-06-14 - [SQLite's Architectural Evolution and Performance Optimisation](https://lord.technology/2025/06/14/sqlites-architectural-evolution-and-performance-optimisation.html)
 - 2025-04-29 - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 - 2025-04-29 - [Database Partitioning for Large SQLite Databases](https://www.sqliteforum.com/p/database-partitioning-for-large-sqlite)
@@ -146,6 +147,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2024-04-30 - [Backup strategies for SQLite in production](https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/)
 - 2024-04-15 - [SQLite on Rails: The How and Why of Optimal Performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 - 2024-02-15 - [Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers)
+- 2024-02-04 - [With SQLite, INSERT OR IGNORE Is Often Not What You Want](https://hoelz.ro/blog/with-sqlite-insert-or-ignore-is-often-not-what-you-want)
 - 2023-02-09 - [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
 - 2022-09-22 - [Storing SQLite databases under git as plain text files](https://trenta3.gitlab.io/note:storing-sqlite-databases-under-git/)
 - 2022-08-24 - [How SQLite Scales Read Concurrency](https://fly.io/blog/sqlite-internals-wal/)
