@@ -128,6 +128,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2025-02-14 - [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
 - 2025-02-14 - [Retrieval Augmented Generation in SQLite](https://losangelesaiapps.com/retrieval-augmented-generation-in-sqlite/)
 - 2025-02-01 - [SQLite concurrent writes and "database is locked" errors](https://tenthousandmeters.com/blog/sqlite-concurrent-writes-and-database-is-locked-errors/)
+- 2024-12-24 - [SQLite DB: simple, in-process, reliable, fast](https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html)
 - 2024-11-14 - [SQLite Index Visualization: Structure](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 - 2024-11-09 - [SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 - 2024-11-02 - [How the new `sqlite3_rsync` utility works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
