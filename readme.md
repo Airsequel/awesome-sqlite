@@ -117,6 +117,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 - 2026-06-07 - [SQLite: improving performance with pre-sort](https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html)
 - 2026-06-05 - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
+- 2026-06-03 - [Creative coding in SQLite](https://ediblemonad.dev/coding4fun/2026-06-03-creative-coding-in-sqlite.html)
 - 2025-10-28 - [Using SQLite's immutable and mode flags to get around 'database is locked' error](https://hoelz.ro/blog/using-sqlites-immutable-and-mode-flags-to-get-around-database-is-locked-error)
 - 2025-06-14 - [SQLite's Architectural Evolution and Performance Optimisation](https://lord.technology/2025/06/14/sqlites-architectural-evolution-and-performance-optimisation.html)
 - 2025-04-29 - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
