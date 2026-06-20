@@ -75,6 +75,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [GizmoSQL](https://github.com/gizmodata/gizmosql) - Arrow Flight SQL server with TLS/auth that can run on top of SQLite (or DuckDB), exposing JDBC/ADBC access via Docker or binary.
 - [LiveStore](https://livestore.dev/) - Local-first state-management framework with a reactive embedded SQLite database and Git-style real-time syncing.
 
+
 ## Extensions
 
 - [github.com/asg017/sqlite-ecosystem](https://github.com/asg017/sqlite-ecosystem) - Overview of all of asg017’s SQLite extensions
