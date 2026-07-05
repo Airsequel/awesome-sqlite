@@ -116,6 +116,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2026-07-04 - [Avoiding SQLite Database Locks in Production](https://www.bendangelo.me/2026/07/04/avoiding-sqlite-database-locks-in-production/)
 - 2026-06-07 - [SQLite: improving performance with pre-sort](https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html)
 - 2026-06-05 - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 - 2026-06-03 - [Creative coding in SQLite](https://ediblemonad.dev/coding4fun/2026-06-03-creative-coding-in-sqlite.html)
