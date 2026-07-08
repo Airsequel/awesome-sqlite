@@ -56,6 +56,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Tools
 
+- [badger](https://github.com/nikitazigman/badger) - Low-level SQLite file format visualizer.
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 - [git-sqlite](https://github.com/cannadayr/git-sqlite) - Custom diff & merge driver that lets you version SQLite databases with Git.
 - [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Sync your Gmail messages into a local SQLite database for analysis.
