@@ -166,6 +166,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2022-02-20 - [Data diffs - Algorithms for explaining what changed in a dataset](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 - 2021-04-17 - [Hosting SQLite databases on GitHub Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - 2021-12-30 - [Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
+- 2020-09-26 - [SQLite Is Dynamically Typed](https://www.zachocean.com/posts/sqlite-is-dynamically-typed/)
 - 2018-07-30 - [One process programming notes (with Go and SQLite)](https://crawshaw.io/blog/one-process-programming-notes)
 - 2017-12-06 - [SQLite DB Migrations with `PRAGMA user_version`](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)
 - 2015-12-07 - [SeSQLite](https://seclab.unibg.it/projects/sesqlite/) - Security Enhanced SQLite: Mandatory Access Control for Android databases
