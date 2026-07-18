@@ -117,6 +117,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2026-07-17 - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 - 2026-07-15 - [Detecting full table scans with SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 - 2026-07-15 - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 - 2026-07-14 - [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need)
