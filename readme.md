@@ -117,6 +117,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2026-07-17 - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 - 2026-07-17 - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 - 2026-07-15 - [Detecting full table scans with SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 - 2026-07-15 - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
