@@ -196,6 +196,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Videos
 
+- [Reliability Lessons From SQLite, by Richard Hipp](https://www.youtube.com/watch?v=V_qzqY1bb7I)
 - [SQLite: How it works, by Richard Hipp](https://www.youtube.com/watch?v=ZSKLA81tBis)
 - [SQLite is enough](https://www.youtube.com/watch?v=qo_VXNVOtWI)
 - [Why SQLite succeeded as a database, with Richard Hipp](https://changelog.com/podcast/201)
