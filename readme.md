@@ -117,6 +117,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Articles
 
+- 2026-08-23 - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 - 2026-08-19 - [SQLite for Everything](https://joecode.com/2026-08-19-sqlite3/)
 - 2026-07-17 - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 - 2026-07-17 - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
