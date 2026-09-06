@@ -101,6 +101,9 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Websites
 
+- [DBConvert Streams](https://streams.dbconvert.com/sqlite-viewer)
+  (commercial) - Browser-local SQLite viewer for opening files, inspecting
+  schema and rows, and running read-only SQL.
 - [Online playground](https://sqlite.org/fiddle/)
 - [sqltab.com](https://www.sqltab.com) - Online webapp for editing SQLite databases
 - [SQLite Viewer](https://tablesviewer.com/sqlite-viewer/) - Client-side viewer that lets you open SQLite files, browse tables, run SQL, and export results—all entirely in your browser without uploading data.
