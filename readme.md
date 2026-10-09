@@ -58,6 +58,8 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 - [badger](https://github.com/nikitazigman/badger) - Low-level SQLite file format visualizer.
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
+- [dbdiff](https://github.com/rekurt/dbdiff) - CLI for comparing SQLite
+  schemas and generating migration SQL.
 - [git-sqlite](https://github.com/cannadayr/git-sqlite) - Custom diff & merge driver that lets you version SQLite databases with Git.
 - [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Sync your Gmail messages into a local SQLite database for analysis.
 - [haiku.rag](https://github.com/ggozad/haiku.rag) - Retrieval-Augmented Generation library/CLI & server built on SQLite with hybrid vector+FTS search, file-system monitoring and Python client.
