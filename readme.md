@@ -59,22 +59,22 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [badger](https://github.com/nikitazigman/badger) - Low-level SQLite file format visualizer.
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 - [git-sqlite](https://github.com/cannadayr/git-sqlite) - Custom diff & merge driver that lets you version SQLite databases with Git.
+- [GizmoSQL](https://github.com/gizmodata/gizmosql) - Arrow Flight SQL server with TLS/auth that can run on top of SQLite (or DuckDB), exposing JDBC/ADBC access via Docker or binary.
 - [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Sync your Gmail messages into a local SQLite database for analysis.
 - [haiku.rag](https://github.com/ggozad/haiku.rag) - Retrieval-Augmented Generation library/CLI & server built on SQLite with hybrid vector+FTS search, file-system monitoring and Python client.
-- [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
-- [sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - GUI that lets you inspect a database page-by-page as SQLite stores and reads it.
+- [JDbrowser](https://github.com/Jkeyuk/JDbrowser) - Terminal TUI SQLite database browser written in Rust.
+- [LiveStore](https://livestore.dev/) - Local-first state-management framework with a reactive embedded SQLite database and Git-style real-time syncing.
 - [omni_sqlite](https://docs.omnigres.org/omni_sqlite/sqlite/) - Omnigres extension that embeds full SQLite databases as a first-class data type inside PostgreSQL.
-- [pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed SQLite databases in your PostgreSQL table.
 - [PgFreshCache](https://github.com/PgOutput2Json/PgFreshCache) - Read-only caching layer that mirrors selected PostgreSQL tables into a local SQLite database via logical replication.
+- [pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed SQLite databases in your PostgreSQL table.
+- [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
 - [RecordLite](https://github.com/fsaintjacques/recordlite) - Declarative tool/library that manages SQLite tables and views for semi-structured (JSON / Protobuf) records.
+- [sqlit](https://github.com/Maxteabag/sqlit) - User-friendly Python TUI for SQL databases, supporting SQLite, SQL Server, MySQL, PostgreSQL, Turso, and more.
 - [SQLite Hub](https://github.com/oliverjessner/sqlite-hub) - Database management for SQLite as a web app.
 - [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
-- [sqlite-wasm-webrtc](https://github.com/adhamsalama/sqlite-wasm-webrtc) - Peer-to-peer collaborative database editing & sharing in the browser.
+- [sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - GUI that lets you inspect a database page-by-page as SQLite stores and reads it.
 - [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - Experimental HTTP VFS driver that lets SQLite WASM access databases over HTTP.
-- [JDbrowser](https://github.com/Jkeyuk/JDbrowser) - Terminal TUI SQLite database browser written in Rust.
-- [sqlit](https://github.com/Maxteabag/sqlit) - User-friendly Python TUI for SQL databases, supporting SQLite, SQL Server, MySQL, PostgreSQL, Turso, and more.
-- [GizmoSQL](https://github.com/gizmodata/gizmosql) - Arrow Flight SQL server with TLS/auth that can run on top of SQLite (or DuckDB), exposing JDBC/ADBC access via Docker or binary.
-- [LiveStore](https://livestore.dev/) - Local-first state-management framework with a reactive embedded SQLite database and Git-style real-time syncing.
+- [sqlite-wasm-webrtc](https://github.com/adhamsalama/sqlite-wasm-webrtc) - Peer-to-peer collaborative database editing & sharing in the browser.
 
 
 ## Extensions
