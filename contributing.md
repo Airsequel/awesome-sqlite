@@ -10,5 +10,5 @@ Please ensure your pull request adheres to the following guidelines:
     but don't add `(open-source)` or similar as list is per default open source.
 - List should be alphabetically after your addition.
 - New categories and improvements to the existing categorisation are welcome.
-- Each line must be a maximum of 80 characters wide.
+- Keep each entry on a single line. Don't wrap it across multiple lines.
 - No opinion-laden words like "easy", "beautiful", "simple", or similar.
