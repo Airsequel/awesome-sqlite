@@ -127,6 +127,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2026-07-14 - [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need)
 - 2026-07-11 - [Prefer STRICT tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
 - 2026-07-04 - [Avoiding SQLite Database Locks in Production](https://www.bendangelo.me/2026/07/04/avoiding-sqlite-database-locks-in-production/)
+- 2026-06-25 - [Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 - 2026-06-07 - [SQLite: improving performance with pre-sort](https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html)
 - 2026-06-05 - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 - 2026-06-03 - [Creative coding in SQLite](https://ediblemonad.dev/coding4fun/2026-06-03-creative-coding-in-sqlite.html)
