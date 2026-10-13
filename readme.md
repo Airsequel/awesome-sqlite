@@ -77,6 +77,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - Experimental HTTP VFS driver that lets SQLite WASM access databases over HTTP.
 - [sqlite-wasm-webrtc](https://github.com/adhamsalama/sqlite-wasm-webrtc) - Peer-to-peer collaborative database editing & sharing in the browser.
 - [sqlitefeed](https://github.com/yeet-src/sqlitefeed) - `tail -f` for SQLite that live-streams every statement, bound value, and per-step latency from any process using libsqlite3, without modifying the traced apps.
+- [syntaqlite](https://github.com/lalitMaganti/syntaqlite) - Fast parser, formatter, static analyzer, and language server for SQLite SQL.
 
 
 ## Extensions
