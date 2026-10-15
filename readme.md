@@ -82,24 +82,26 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Extensions
 
-- [github.com/asg017/sqlite-ecosystem](https://github.com/asg017/sqlite-ecosystem) - Overview of all of asg017’s SQLite extensions
-    - [github.com/asg017/sqlite-http](https://github.com/asg017/sqlite-http) - SQLite extension for making HTTP requests purely in SQL
-    - [github.com/asg017/sqlite-html](https://github.com/asg017/sqlite-html) - SQLite extension for querying, manipulating, and creating HTML elements.
-    - [github.com/asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
-    - [github.com/asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - SQLite extension for efficient vector similarity search
-- [github.com/nalgeon/sqlean/](https://github.com/nalgeon/sqlean/) - Collection of SQLite extensions
-- [github.com/x2bool/xlite](https://github.com/x2bool/xlite) - SQLite extension to query Excel (.xlsx, .xls, .ods) files as virtual tables
-- [github.com/0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - SQLite extension loading Google Sheets as virtual tables
-- [github.com/abiliojr/sqlite-js](https://github.com/abiliojr/sqlite-js) - Create new SQL functions in JavaScript****
-- [github.com/0x09/sqlite-statement-vtab](https://github.com/0x09/sqlite-statement-vtab) - Define virtual tables and table-valued functions natively using SQL.
-- [github.com/abiliojr/sqlite-lua](https://github.com/abiliojr/sqlite-lua) - Create new SQL functions written in Lua.****
-- [github.com/x2bool/sqliteclip](https://github.com/x2bool/sqliteclip) - Work with operating system's clipboard.
-- [github.com/hoelzro/sqlite-lua-extension](https://github.com/hoelzro/sqlite-lua-extension) - Embed a Lua interpreter into SQLite
-- [github.com/Florents-Tselai/liteJQ](https://github.com/Florents-Tselai/liteJQ) - liteJQ is an SQLite extension, written in C, that brings `jq` support to SQLite using vanilla `jqlib`.
-- [github.com/JarkkoPar/sqlite-ndvss](https://github.com/JarkkoPar/sqlite-ndvss) - No-Dependency Vector Similarity Search for SQLite.
+- [GraphQLite](https://github.com/colliery-io/graphqlite) - Graph database extension with Cypher query language support and built-in graph algorithms.
+- [libgsqlite](https://github.com/0x6b/libgsqlite) - SQLite extension loading Google Sheets as virtual tables
+- [liteJQ](https://github.com/Florents-Tselai/liteJQ) - liteJQ is an SQLite extension, written in C, that brings `jq` support to SQLite using vanilla `jqlib`.
+- [Pandora](https://kruzenshtern.org/projects/2025-11-06-pandora) - Extension that exposes HTTP APIs as virtual tables, using LuaJIT drivers and predicate pushdown over HTTP.
+- [sqlean](https://github.com/nalgeon/sqlean/) - Collection of SQLite extensions
+- [SQLite Jiff](https://github.com/asg017/sqlite-jiff) - Date-time extension that supports timezones, complex durations, and daylight savings calculations.
+- [sqlite-ecosystem](https://github.com/asg017/sqlite-ecosystem) - Overview of all of asg017’s SQLite extensions
+    - [sqlite-html](https://github.com/asg017/sqlite-html) - SQLite extension for querying, manipulating, and creating HTML elements.
+    - [sqlite-http](https://github.com/asg017/sqlite-http) - SQLite extension for making HTTP requests purely in SQL
+    - [sqlite-lines](https://github.com/asg017/sqlite-lines) - SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
+    - [sqlite-vss](https://github.com/asg017/sqlite-vss) - SQLite extension for efficient vector similarity search
+- [sqlite-js](https://github.com/abiliojr/sqlite-js) - Create new SQL functions in JavaScript
+- [sqlite-lua](https://github.com/abiliojr/sqlite-lua) - Create new SQL functions written in Lua.
+- [sqlite-lua-extension](https://github.com/hoelzro/sqlite-lua-extension) - Embed a Lua interpreter into SQLite
+- [sqlite-ndvss](https://github.com/JarkkoPar/sqlite-ndvss) - No-Dependency Vector Similarity Search for SQLite.
+- [sqlite-statement-vtab](https://github.com/0x09/sqlite-statement-vtab) - Define virtual tables and table-valued functions natively using SQL.
+- [sqliteclip](https://github.com/x2bool/sqliteclip) - Work with operating system's clipboard.
 - [SQLSync](https://github.com/orbitinghail/sqlsync) - Collaborative offline-first wrapper around SQLite.
 - [Vectorlite](https://github.com/1yefuwang1/vectorlite) - Fast and tunable vector search extension for SQLite.
-- [SQLite Jiff](https://github.com/asg017/sqlite-jiff) - Date-time extension that supports timezones, complex durations, and daylight savings calculations.
+- [xlite](https://github.com/x2bool/xlite) - SQLite extension to query Excel (.xlsx, .xls, .ods) files as virtual tables
 
 
 ## Websites
@@ -135,6 +137,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - 2026-06-03 - [Creative coding in SQLite](https://ediblemonad.dev/coding4fun/2026-06-03-creative-coding-in-sqlite.html)
 - 2026-05-12 - [Taking control of the SQLite WAL](https://philipotoole.com/taking-control-of-the-sqlite-wal/)
 - 2025-10-28 - [Using SQLite's immutable and mode flags to get around 'database is locked' error](https://hoelz.ro/blog/using-sqlites-immutable-and-mode-flags-to-get-around-database-is-locked-error)
+- 2025-10-20 - [Building a programming language using SQLite's VM - Pt 1](https://el-yawd.github.io/blog/2025/carrot/)
 - 2025-06-14 - [SQLite's Architectural Evolution and Performance Optimisation](https://lord.technology/2025/06/14/sqlites-architectural-evolution-and-performance-optimisation.html)
 - 2025-04-29 - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 - 2025-04-29 - [Database Partitioning for Large SQLite Databases](https://www.sqliteforum.com/p/database-partitioning-for-large-sqlite)
