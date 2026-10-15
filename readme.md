@@ -56,6 +56,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Tools
 
+- [1bench](https://1bench.dev/sqlite) (commercial) - Desktop client for local .db files and SQLite on remote servers over SSH.
 - [badger](https://github.com/nikitazigman/badger) - Low-level SQLite file format visualizer.
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 - [git-sqlite](https://github.com/cannadayr/git-sqlite) - Custom diff & merge driver that lets you version SQLite databases with Git.
