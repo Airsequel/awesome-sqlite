@@ -60,6 +60,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 - [git-sqlite](https://github.com/cannadayr/git-sqlite) - Custom diff & merge driver that lets you version SQLite databases with Git.
 - [GizmoSQL](https://github.com/gizmodata/gizmosql) - Arrow Flight SQL server with TLS/auth that can run on top of SQLite (or DuckDB), exposing JDBC/ADBC access via Docker or binary.
+- [Glim](https://github.com/NeoPanic/Glim) - macOS file viewer with read-only SQLite table, schema and paged record browsing through temporary database snapshots.
 - [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Sync your Gmail messages into a local SQLite database for analysis.
 - [haiku.rag](https://github.com/ggozad/haiku.rag) - Retrieval-Augmented Generation library/CLI & server built on SQLite with hybrid vector+FTS search, file-system monitoring and Python client.
 - [JDbrowser](https://github.com/Jkeyuk/JDbrowser) - Terminal TUI SQLite database browser written in Rust.
