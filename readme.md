@@ -70,6 +70,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed SQLite databases in your PostgreSQL table.
 - [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
 - [RecordLite](https://github.com/fsaintjacques/recordlite) - Declarative tool/library that manages SQLite tables and views for semi-structured (JSON / Protobuf) records.
+- [RowSafe](https://github.com/rowsafe/rowsafe) - Linux agent for SQLite backups and restore testing.
 - [sqlit](https://github.com/Maxteabag/sqlit) - User-friendly Python TUI for SQL databases, supporting SQLite, SQL Server, MySQL, PostgreSQL, Turso, and more.
 - [SQLite Hub](https://github.com/oliverjessner/sqlite-hub) - Database management for SQLite as a web app.
 - [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
