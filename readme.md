@@ -57,6 +57,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 
 ## Tools
 
+- [1bench](https://1bench.dev/sqlite) (commercial) - Desktop client for local .db files and SQLite on remote servers over SSH.
 - [badger](https://github.com/nikitazigman/badger) - Low-level SQLite file format visualizer.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) -
   Cross-platform SQL editor and database GUI for SQLite, PostgreSQL, and more.
