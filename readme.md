@@ -58,6 +58,8 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 ## Tools
 
 - [badger](https://github.com/nikitazigman/badger) - Low-level SQLite file format visualizer.
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) -
+  Cross-platform SQL editor and database GUI for SQLite, PostgreSQL, and more.
 - [db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting databases to SQLite.
 - [git-sqlite](https://github.com/cannadayr/git-sqlite) - Custom diff & merge driver that lets you version SQLite databases with Git.
 - [GizmoSQL](https://github.com/gizmodata/gizmosql) - Arrow Flight SQL server with TLS/auth that can run on top of SQLite (or DuckDB), exposing JDBC/ADBC access via Docker or binary.
