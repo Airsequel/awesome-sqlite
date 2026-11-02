@@ -71,6 +71,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [omni_sqlite](https://docs.omnigres.org/omni_sqlite/sqlite/) - Omnigres extension that embeds full SQLite databases as a first-class data type inside PostgreSQL.
 - [PgFreshCache](https://github.com/PgOutput2Json/PgFreshCache) - Read-only caching layer that mirrors selected PostgreSQL tables into a local SQLite database via logical replication.
 - [pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed SQLite databases in your PostgreSQL table.
+- [Pilotbase](https://github.com/icedsg/pilotbase) - Database client for SQLite, PostgreSQL, MySQL, MongoDB, and vector databases, with a SQL editor, schema tree, and SQL export, running in Docker or as a desktop app.
 - [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
 - [RecordLite](https://github.com/fsaintjacques/recordlite) - Declarative tool/library that manages SQLite tables and views for semi-structured (JSON / Protobuf) records.
 - [sqlit](https://github.com/Maxteabag/sqlit) - User-friendly Python TUI for SQL databases, supporting SQLite, SQL Server, MySQL, PostgreSQL, Turso, and more.
