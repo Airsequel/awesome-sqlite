@@ -45,6 +45,7 @@
 - [Timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [Compute Lite](https://www.computelite.com/) – Server-less, in-browser computing environment (Pyodide, WebR, JavaScript) that stores all data locally using SQLite OPFS.
 - [Minimalytics](https://github.com/nafey/minimalytics) - Stand-alone, minimalist analytics CLI/Web UI that stores and aggregates billions of events per month using a single SQLite database.
+- [Skald](https://github.com/spcaeo/skald) (source-available) - Web analytics from your server's access log, stored in a single SQLite database; separates people from AI assistants, search crawlers and scanners.
 - [Nostos](https://github.com/Christian-Gennari/Nostos) - Local-first reading environment and digital study that stores library metadata, marginalia, reading progress, and connected notes in a single SQLite database.
 - [The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata](https://twitter.com/captbaritone/status/1535471373191028737)
 - [Contextualise](https://contextualise.dev/) - Structured Knowledge
