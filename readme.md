@@ -74,6 +74,7 @@ Check out [sqlite.org/famous](https://www.sqlite.org/famous.html) for a more com
 - [plainjob](https://github.com/justplainstuff/plainjob) - Job scheduling library for SQLite.
 - [RecordLite](https://github.com/fsaintjacques/recordlite) - Declarative tool/library that manages SQLite tables and views for semi-structured (JSON / Protobuf) records.
 - [sqlit](https://github.com/Maxteabag/sqlit) - User-friendly Python TUI for SQL databases, supporting SQLite, SQL Server, MySQL, PostgreSQL, Turso, and more.
+- [sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) - Agent memory for Claude Code, Cursor and Codex: indexes markdown or Obsidian notes into one SQLite file (sqlite-vec) and walks their wikilinks as a graph, served over MCP.
 - [SQLite Hub](https://github.com/oliverjessner/sqlite-hub) - Database management for SQLite as a web app.
 - [SQLite Rsync](https://sqlite.org/rsync.html) - Rsync for SQLite databases.
 - [sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - GUI that lets you inspect a database page-by-page as SQLite stores and reads it.
